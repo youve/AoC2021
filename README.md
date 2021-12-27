@@ -6,7 +6,7 @@ Written in Python 3.9
 
 Task | Solution | Comments
 ---  | ---      | ---
-Day 01 | [01-sonar-sweep/solve_a.py](01-sonar-sweep/solver_a.py) [01/solve_b.py](01-sonar-sweep/solve_b.py) | Comparison of neighbouring list elements
+Day 01 | [01-sonar-sweep/solve_a.py](01-sonar-sweep/solve_a.py) [01/solve_b.py](01-sonar-sweep/solve_b.py) | Comparison of neighbouring list elements
 Day 02 | [02-dive/solve.py](02-dive/solve.py) | if elif else
 Day 03 | [03-binary-diagnostic/solve.py](03-binary-diagnostic/solve.py)  | most common bits 
 Day 04 | [04-giant-squid/solve.py](04-giant-squid/solve.py) | Bingo simulation 
