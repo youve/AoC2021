@@ -14,4 +14,6 @@ Day 05 | [05-hydrothermal-venture/solve.py](05-hydrothermal-venture/solve.py) | 
 Day 06 | [06-lanternfish/solve.py](06-lanternfish/solve.py) | simulate 1.7 TB of lanternfish without using 1.7 TB of memory
 Day 07 | [07-the-treachery-of-whales/solve.py](07-the-treachery-of-whales/solve.py) | Minimise fuel costs
 Day 08 | [08-seven-segment-search/solve.py](08-seven-segment-search/solve.py) | unscramble wiring on seven segmented displays
-Day 09 | [09-smoke-basin/solve.py](09-smoke-basin/solve.py) | I'll finish uploading these later 
+Day 09 | [09-smoke-basin/solve.py](09-smoke-basin/solve.py) | uploading later 
+Day 10 | [10-syntax-scoring/solve.py](10-syntax-scoring/solve.py) | stack based syntax checker
+Day 11 | [11-dumbo-octopus/solve.py](11-dumbo-octopus/solve.py) | Stack based breadth first search mapping chain reactions between neighbouring octopuses
