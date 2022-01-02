@@ -36,21 +36,17 @@ def parse(file):
     steps = []
     #"on x=-54112..-39298,y=-85059..-49293,z=-27449..7877\n"
     for line in file:
-        #"on x=-54112..-39298,y=-85059..-49293,z=-27449..7877"
         line = line.strip()
         bit = False
         if line.startswith('on'):
             bit = True
-        #"on x=-54112..-39298", "y=-85059..-49293" , "z=-27449..7877"
         x, y, z = line.split(',')
-        # "on x" ="-54112..-39298"
         x = x.split('=')
         x_min, x_max = x[1].split('..')
         y = y.split('=')
         y_min, y_max = y[1].split('..')
         z = z.split('=')
         z_min, z_max = z[1].split('..')
-        #print(bit, x_min, x_max, y_min, y_max, z_min, z_max)
         steps.append(Instruction(bit, int(x_min), int(x_max),
                      int(y_min), int(y_max), int(z_min), int(z_max)))
     return steps
