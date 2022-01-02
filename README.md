@@ -23,3 +23,4 @@ Day 14 | [14-extended-polymerisation/solve.py](14-extended-polymerisation/solve.
 Day 15 | [15-chiton/solve.py](15-chiton/solve.py) | Find best path with Dijkstra
 Day 16 | [16-packet-decoder/solve.py Part 1](16-packet-decoder/solve.py), [16-packet-decoder/solve_2.py Part 2](16-packet-decoder/solve_2.py) | Parse nested hexadecimal packets
 Day 17 | [17-tricky-shot/solve.py](17-tricky-shot/solve.py) | Find all initial x,y velocities that hit a target
+Day 18 | [18-snailfish/solve.py](18-snailfish/solve.py) | Solved the hard way: with string manipulation
