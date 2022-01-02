@@ -1,0 +1,100 @@
+7 < 7
+multiplying [False, 207]
+213 < 440221
+multiplying [4033, True]
+multiplying [154, 218, 195]
+multiplying [213, 201]
+multiplying [130, 85, 134, 84]
+min of [14, 12]
+min of [496]
+max of [250302336, 3044, 6]
+13618161 > 1803012025
+multiplying [44, False]
+summing [3950, 17161, 578565]
+37809 == 3460
+multiplying [False, 1509]
+summing [15, 778317]
+summing [197]
+max of [43315326792, 59]
+6011792 > 2324876
+multiplying [True, 234]
+min of [86, 32, 777, 2370405893, 95]
+summing [1, 117, 1083, 22635, 273727380]
+multiplying [87]
+summing [7, 2, 12]
+summing [8, 12, 14]
+summing [8, 2, 8]
+multiplying [21, 34, 18]
+237 == 237
+multiplying [True, 51655]
+28292 == 6919653
+multiplying [False, 458]
+2118 > 2118
+multiplying [501045, False]
+multiplying [243, 237, 89, 53, 239]
+min of [2346, 13, 10573793]
+min of [884218849228, 3275, 3711844709, 28101]
+max of [11733707, 1007142, 2134, 2, 119]
+7462609 > 1558
+multiplying [True, 10631683]
+summing [10, 6, 5]
+summing [6, 9, 10]
+21 > 25
+multiplying [83, False]
+max of [235949483]
+90 > 562480
+multiplying [10844423, False]
+1127578124184 < 35159
+multiplying [False, 8]
+summing [68, 3730, 1904, 4]
+max of [2717, 516941, 2189, 20]
+summing [10, 6, 3]
+summing [4, 3, 12]
+19 > 19
+multiplying [26510, False]
+5 < 56
+multiplying [169, True]
+2791185736 > 2791185736
+multiplying [3086, False]
+395746 < 247
+multiplying [False, 9]
+multiplying [5, 4, 11]
+multiplying [4, 7, 12]
+multiplying [5, 3, 8]
+summing [220, 336, 120]
+summing [4, 11, 3]
+summing [8, 2, 9]
+18 < 19
+multiplying [148, True]
+99 < 99
+multiplying [False, 46946]
+summing [4, 8, 4]
+summing [15, 13, 4]
+16 == 32
+multiplying [False, 226095317]
+max of [149340753743]
+min of [149340753743]
+min of [149340753743]
+min of [149340753743]
+summing [149340753743]
+multiplying [149340753743]
+max of [149340753743]
+summing [149340753743]
+multiplying [149340753743]
+summing [149340753743]
+max of [149340753743]
+summing [149340753743]
+multiplying [149340753743]
+max of [149340753743]
+max of [149340753743]
+multiplying [149340753743]
+multiplying [149340753743]
+multiplying [149340753743]
+max of [149340753743]
+max of [149340753743]
+summing [15, 9, 11]
+summing [3, 15, 9]
+35 < 27
+multiplying [False, 760041]
+summing [54, 0, 478873, 4033, 128379578, 6546540, 42813, 3, 124378800, 12, 496, 250302336, 0, 599676, 0, 778332, 197, 43315326792, 234, 51549, 28157381, 32, 273751216, 87, 12852, 51655, 0, 0, 64925962533, 13, 3275, 11733707, 10631683, 234200347, 0, 235949483, 0, 0, 5706, 516941, 5261, 0, 169, 0, 0, 676, 148, 0, 0, 149340753743, 1704, 10, 0]
+258888628940
