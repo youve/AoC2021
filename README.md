@@ -17,3 +17,4 @@ Day 08 | [08-seven-segment-search/solve.py](08-seven-segment-search/solve.py) | 
 Day 09 | [09-smoke-basin/solve.py](09-smoke-basin/solve.py) | uploading later 
 Day 10 | [10-syntax-scoring/solve.py](10-syntax-scoring/solve.py) | stack based syntax checker
 Day 11 | [11-dumbo-octopus/solve.py](11-dumbo-octopus/solve.py) | Stack based breadth first search mapping chain reactions between neighbouring octopuses
+Day 12 | [12-passage-pathing/solve.py](12-passage-pathing/solve.py) | Stack based breadth first search to find all paths through a graph 
