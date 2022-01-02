@@ -21,3 +21,4 @@ Day 12 | [12-passage-pathing/solve.py](12-passage-pathing/solve.py) | Stack base
 Day 13 | [13-transparent-origami/solve.py](13-transparent-origami/solve.py) | Fold a 2D transparency until the dots overlap to reveal letters
 Day 14 | [14-extended-polymerisation/solve.py](14-extended-polymerisation/solve.py) | create 19 TB of polymer without using 19 TB of memory
 Day 15 | [15-chiton/solve.py](15-chiton/solve.py) | Find best path with Dijkstra
+Day 16 | [16-packet-decoder/solve.py Part 1](16-packet-decoder/solve.py), [16-packet-decoder/solve_2.py Part 2](16-packet-decoder/solve_2.py) | Parse nested hexadecimal packets
