@@ -20,3 +20,4 @@ Day 11 | [11-dumbo-octopus/solve.py](11-dumbo-octopus/solve.py) | Stack based br
 Day 12 | [12-passage-pathing/solve.py](12-passage-pathing/solve.py) | Stack based breadth first search to find all paths through a graph 
 Day 13 | [13-transparent-origami/solve.py](13-transparent-origami/solve.py) | Fold a 2D transparency until the dots overlap to reveal letters
 Day 14 | [14-extended-polymerisation/solve.py](14-extended-polymerisation/solve.py) | create 19 TB of polymer without using 19 TB of memory
+Day 15 | [15-chiton/solve.py](15-chiton/solve.py) | Find best path with Dijkstra
