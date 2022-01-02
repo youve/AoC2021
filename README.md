@@ -28,3 +28,6 @@ Day 19 | |
 Day 20 | |
 Day 21 | [21-dirac-dice/solve1.py](21-dirace-dice/solve1.py) | Simulate a dice game
 Day 22 | [22-reactor-reboot/solve.py](22-reactor-reboot/solve.py) | Turn bits in a large 3D array on and off
+Day 23 | | Solved by hand
+Day 24 | | 
+Day 25 | 25-sea-cucumber/solve.py](25-sea-cucumber/solve.py) | Move sea cucumbers east and south until they traffic jam
